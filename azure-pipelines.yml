@@ -39,8 +39,8 @@ steps:
     organization: promove
     scannerMode: CLI
     configMode: manual
-    cliProjectKey: floresjcd
-    cliProjectName: floresjcd
+    cliProjectKey: analia
+    cliProjectName: Analia
     cliSources: '$(System.DefaultWorkingDirectory)'
 
 - task: VSBuild@1
